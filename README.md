@@ -9,9 +9,9 @@
 
 + After you chosen, double click the bot.py file.
 
-+ Choose between 20 colleges
++ Choose between 27 colleges
 
-![Capture](https://i.imgur.com/Intg2uN.png)
+![Capture](https://i.imgur.com/3knCJAc.png)
 
 + Then type your email (Must your real email).
 
